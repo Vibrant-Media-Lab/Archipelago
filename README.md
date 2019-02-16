@@ -20,12 +20,12 @@ This repository contains all the game boards, pieces, and rules you need to play
 
 To make the game pieces for this expansion, navigate to the `Easy-Setup` folder. Included there are five files:
 
-	- `easySetup_boat.stl`
-	- `easySetup_mast.stl`
-	- `easySetup_smallAssets.stl`
-	- `easySetup_cards.png`
-	- `Setup.pdf`
-	
+	- easySetup_boat.stl
+	- easySetup_mast.stl
+	- easySetup_smallAssets.stl
+	- easySetup_cards.png
+	- Setup.pdf
+
 Each of the first three files can be directly loaded into slicing softwre to be printed (Note: models have been scaled down to condense filespace. You may need to manually resize before printing). The fourth can be printed normally, and contains all cards in the proper quantities for play.
 
 After printing the boat, mast, and small assets, you can begin assembly. Fit the mast into the appropriate hole on deck, and place the wheel and its stand in their appropriate place. Attach the fifteen movement spaces to the deck based on the layout in `Setup.pdf`, with the ladder between the main and aft decks. The remaining small assets (i.e. cannonballs, treasure) can be distributed by the Game Master based on the game they design.
